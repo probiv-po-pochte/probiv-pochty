@@ -2,6 +2,8 @@
 
 ![Пробив почты](assets/repository-cover.png)
 
+[![Открыть поиск](https://img.shields.io/badge/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-157f6d?style=for-the-badge)](https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=probiv-po-pochte&utm_content=probiv-pochty-button&ref=github_probiv-po-pochte_probiv-pochty_button)
+
 Если вы хотите **пробить почту**, начните с точного адреса и разделите две задачи: поиск открытых упоминаний и проверку риска утечки. Они отвечают на разные вопросы. Упоминание email на странице не доказывает личность его нынешнего владельца, а запись об утечке не означает, что пароль ещё действует.
 
 [Проверить доступные источники](https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=probiv-po-pochte&utm_content=probiv-pochty&ref=github_probiv-po-pochte_probiv-pochty)
